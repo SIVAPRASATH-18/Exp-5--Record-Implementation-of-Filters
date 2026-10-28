@@ -65,8 +65,8 @@ Display all filtered images using a grid layout for comparison.
 
 ##  Developed By
 
-- **Name:** SIVAPRASATH B ____________________________  
-- **Register No:** 212225230268______________________  
+- **Name:** SIVAPRASATH B 
+- **Register No:** 212225230268
 
 ---
 
